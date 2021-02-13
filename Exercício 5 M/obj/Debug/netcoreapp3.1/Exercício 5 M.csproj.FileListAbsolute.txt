@@ -1,0 +1,13 @@
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\bin\Debug\netcoreapp3.1\Exercício 5 M.exe
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\bin\Debug\netcoreapp3.1\Exercício 5 M.deps.json
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\bin\Debug\netcoreapp3.1\Exercício 5 M.runtimeconfig.json
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\bin\Debug\netcoreapp3.1\Exercício 5 M.runtimeconfig.dev.json
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\bin\Debug\netcoreapp3.1\Exercício 5 M.dll
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\bin\Debug\netcoreapp3.1\Exercício 5 M.pdb
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\obj\Debug\netcoreapp3.1\Exercício 5 M.csprojAssemblyReference.cache
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\obj\Debug\netcoreapp3.1\Exercício 5 M.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\obj\Debug\netcoreapp3.1\Exercício 5 M.AssemblyInfo.cs
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\obj\Debug\netcoreapp3.1\Exercício 5 M.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\obj\Debug\netcoreapp3.1\Exercício 5 M.dll
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\obj\Debug\netcoreapp3.1\Exercício 5 M.pdb
+C:\Users\rubem\source\repos\Exercício 5 M\Exercício 5 M\obj\Debug\netcoreapp3.1\Exercício 5 M.genruntimeconfig.cache
